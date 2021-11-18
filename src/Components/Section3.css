@@ -1,0 +1,164 @@
+@import url("https://fonts.googleapis.com/css2?family=Ephesis&family=Festive&family=Playfair+Display:ital@0;1&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@500&family=Open+Sans&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@500&family=Open+Sans:wght@300;400&display=swap");
+
+.hero {
+  height: 40em;
+  background: url("https://image.freepik.com/free-photo/vegetables-set-left-black-slate_1220-685.jpg")
+    no-repeat center;
+  background-size: cover;
+  position: relative;
+}
+
+.claim {
+  color: #dbdbdb;
+  font-size: 2.5em;
+  padding: 22% 7em 0 2em;
+  position: relative;
+  text-align: center;
+  margin-left: 10%;
+}
+.p2 {
+  text-align: center;
+  size: 2rm;
+  font-weight: bold;
+  color: #aca9a9;
+  font-family: var(--font-family);
+}
+.centerH1 {
+  text-align: center;
+}
+.btnGet {
+  background: transparent;
+  color: white;
+  border: 1px solid;
+  padding: 10px;
+  border-radius: 0.5rem;
+}
+.btnGet > a {
+  color: white;
+}
+.div1 {
+  background: white;
+  width: 72%;
+  margin-left: 108px;
+  height: 120%;
+}
+.div2 {
+  background-color: rgba(5, 5, 5, 0.4);
+  width: 72%;
+  margin-left: 58px;
+  height: 120%;
+}
+.div3 {
+  background: orangered;
+  width: 72%;
+  margin-left: 12px;
+  height: 120%;
+}
+.divCotainer {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 5px;
+}
+.h11 {
+  font-size: 7rem;
+  font-family: "Playfair Display", serif;
+  text-align: left;
+  margin-left: 20px;
+}
+.h12 {
+  font-size: 7rem;
+  color: orangered;
+  font-family: "Playfair Display", serif;
+  text-align: left;
+  margin-left: 20px;
+}
+.h13 {
+  font-size: 7rem;
+  color: white;
+  font-family: "Playfair Display", serif;
+  text-align: left;
+  margin-left: 20px;
+}
+.h31 {
+  font-size: 1.7rem;
+  font-weight: bold;
+  font-family: "Noto Sans Mono", monospace;
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.h32 {
+  font-size: 1.7rem;
+  font-weight: bold;
+  font-family: "Noto Sans Mono", monospace;
+  text-align: left;
+  margin-left: 20px;
+  color: white;
+  margin-top: 20px;
+}
+.h33 {
+  font-size: 1.7rem;
+  font-weight: bold;
+  font-family: "Noto Sans Mono", monospace;
+  text-align: left;
+  margin-left: 20px;
+  color: white;
+  margin-top: 20px;
+}
+.p11 {
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 20px;
+  font-family: "Noto Sans Mono", monospace;
+  font-size: 15px;
+}
+.p12 {
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 20px;
+  font-family: "Noto Sans Mono", monospace;
+  font-size: 15px;
+  color: white;
+}
+.p13 {
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 20px;
+  font-family: "Noto Sans Mono", monospace;
+  font-size: 15px;
+  color: white;
+}
+@media only screen and (max-width: 768px) {
+  .div1 {
+    background: white;
+    width: 91%;
+    margin-left: 25px;
+    height: 97%;
+  }
+  .div2 {
+    background-color: rgba(5, 5, 5, 0.4);
+    width: 91%;
+    margin-left: 25px;
+    height: 97%;
+  }
+  .div3 {
+    background: orangered;
+    width: 91%;
+    margin-left: 25px;
+    height: 97%;
+  }
+  .hero {
+    height: 80em;
+  }
+  .divCotainer {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    /* gap: 5px; */
+  }
+}

@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@500&family=Open+Sans&display=swap");
+.div16 {
+  position: relative;
+  /* top: -443px; */
+  /* height: 50%; */
+}
+.div162 {
+  width: 491px;
+  /* height: 269px; */
+  position: relative;
+  top: 0px;
+  background: orangered;
+}
+.imgMenu1161 {
+  width: 31%;
+  position: relative;
+  top: 0px;
+  left: -329px;
+  background: orangered;
+  padding-left: 57px;
+  padding-right: 42px;
+  padding-top: 29px;
+}
+.imgMenu1162 {
+  width: 23%;
+  position: relative;
+  top: 14px;
+  left: -345px;
+  height: 480px;
+}
+.div163 {
+  width: 27%;
+  position: relative;
+  top: -362px;
+  left: 827px;
+  text-align: left;
+}
+.h1161 {
+  color: orangered;
+  font-family: "Noto Sans Mono", monospace;
+}
+@media only screen and (max-width: 768px) {
+  .div162 {
+    width: 205px;
+    height: 152px;
+    position: relative;
+    /* top: 225px; */
+    background: orangered;
+  }
+
+  .imgMenu1162 {
+    width: 33%;
+    position: relative;
+    /* top: 125px; */
+    left: -190px;
+  }
+  .imgMenu1161 {
+    width: 38%;
+    position: relative;
+    /* top: 120px; */
+    left: 110px;
+  }
+  .div163 {
+    width: 60%;
+    position: relative;
+    top: 17px;
+    left: 38px;
+    text-align: left;
+  }
+}

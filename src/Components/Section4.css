@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap');
+.div1111 {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  height: 100%;
+  font-family: 'Zen Antique', serif;
+}
+.div1112 {
+}
+.h111 {
+  text-align: right;
+  margin-right: 10px;
+  margin-top: 30px;
+  font-size: 4rem;
+  font-family: "Open Sans", sans-serif;
+  font-family: 'Zen Antique', serif;
+}
+
+.div1113 {
+  background-color: rgb(231, 211, 31);
+  height: 90%;
+  font-family: 'Zen Antique', serif;
+}
+.h112 {
+  text-align: left;
+  margin-left: 10px;
+  margin-top: 30px;
+  font-size: 4rem;
+  font-family: 'Zen Antique', serif;
+}
+.imgMenu1 {
+  position: relative;
+  top: 10px;
+  left: 51px;
+  width: 45%;
+}
+.imgMenu2 {
+  position: relative;
+  top: 10px;
+  left: 174px;
+  width: 50%;
+}
+.imgMenu3 {
+  position: relative;
+  top: 10px;
+  left: 69px;
+  width: 45%;
+}
+
+@media only screen and (max-width: 768px) {
+  .imgMenu1 {
+    position: relative;
+    top: 10px;
+    left: 31px;
+    width: 45%;
+  }
+  .imgMenu2 {
+    position: relative;
+    top: 10px;
+    left: 96px;
+width: 45%;
+  }
+  .imgMenu3 {
+    position: relative;
+    top: 10px;
+    left: 58px;
+width: 45%;
+  }
+}
