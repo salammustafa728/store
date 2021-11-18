@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap');
+.maindiv{
+    background-color: black;
+    color: white;
+    font-family: 'Zen Antique', serif;
+}
+.div51{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}

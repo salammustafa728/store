@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&family=Raleway:wght@300&family=Zen+Antique&display=swap');
+
+.bG {
+  background: url("https://images03.nicepage.com/c461c07a441a5d220e8feb1a/51aeaed3b1cb5527884543bc/725d7ad7-2f2d-42af-961e-5a31ad366542.jpg")
+    no-repeat center;
+  background-size: cover;
+  height: 40em;
+}
+.h2foot {
+  color: white;
+  position: relative;
+  top: 410px;
+  left: -444px;
+  font-size: 1.5em;
+  font-family: "Zen Antique", serif;
+}
+.pfoot {
+  color: white;
+  width: 350px;
+  text-align: left;
+  margin-top: 421px;
+  margin-left: 111px;
+  font-family: "Zen Antique", serif;
+}
+.divlogo {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.small {
+  width: 32px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.divlogo1 {
+  margin-left: -259px;
+}
+.divlogo2 {
+  /* margin-left: -596px; */
+  display: grid;
+  grid-template-columns: repeat(6, 3fr);
+}
+.l1 {
+  position: relative;
+  top: -123px;
+  cursor: pointer;
+}
+.p11foot {
+  position: relative;
+  top: -52px;
+  color: white;
+  left: -137px;
+  font-family: 'Zen Antique', serif;
+}
+@media only screen and (max-width: 768px) {
+  .divlogo {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .l1 {
+    position: relative;
+    top: 64px;
+  }
+  .pfoot {
+    margin-top: 273px;
+    margin-left: 84px;
+  }
+  .divlogo1 {
+    margin-left: -71px;
+  }
+  .p11foot {
+    position: relative;
+    top: 130px;
+    left: -75px;
+  }
+  .h2foot {
+    position: relative;
+    top: 268px;
+    left: 2px;
+  }
+}
