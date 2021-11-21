@@ -24,13 +24,13 @@
   position: relative;
   font-size: 1rem;
   line-height: 40px;
-  margin-left: 471px;
-  top: -325px;
+  margin-left: 239px;
+  top: -158px;
   width: 24%;
 }
 .orangediv {
   background: orangered;
-  width: 39%;
+  width: 30%;
   margin-left: 817px;
   margin-top: -510px;
   padding-top: 52px;
@@ -51,7 +51,7 @@
     margin-right: 81px;
   }
   .imgMenu {
-    width: 44%;
+    width: 30%;
     position: relative;
     top: -89px;
     left: -111px;
@@ -70,14 +70,14 @@
     font-size: 0.5rem;
     line-height: 40px;
     margin-left: 205px;
-top: -162px;
+    top: -135px;
     width: 37%;
   }
   .orangediv {
     background: orangered;
-    width: 51%;
-    margin-left: 168px;
-    margin-top: -153px;
+    width: 46%;
+    margin-left: 182px;
+    margin-top: -129px;
     padding-top: 40px;
   }
 
