@@ -3,8 +3,13 @@
     background-color: black;
     color: white;
     font-family: 'Zen Antique', serif;
+    /* height: 100%; */
+    padding: 7px;
 }
 .div51{
     display: grid;
     grid-template-columns: repeat(3,1fr);
+}
+.enddiv{
+
 }

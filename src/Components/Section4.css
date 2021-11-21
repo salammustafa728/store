@@ -51,19 +51,19 @@
   .imgMenu1 {
     position: relative;
     top: 10px;
-    left: 31px;
+    left: 25px;
     width: 45%;
   }
   .imgMenu2 {
     position: relative;
     top: 10px;
-    left: 96px;
-width: 45%;
+    left: 65px;
+width: 49%;
   }
   .imgMenu3 {
     position: relative;
     top: 10px;
-    left: 58px;
+    left: 39px;
 width: 45%;
   }
 }

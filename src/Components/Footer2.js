@@ -18,7 +18,9 @@ const Footer2 = () => {
         </div>
       </div>
       <hr />
+      <div className="enddiv">
       <p>sample footer test</p>
+      </div>
     </div>
   );
 };

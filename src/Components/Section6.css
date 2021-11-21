@@ -40,13 +40,13 @@
   font-family: "Noto Sans Mono", monospace;
 }
 @media only screen and (max-width: 768px) {
-  .div162 {
+  /* .div162 {
     width: 205px;
     height: 152px;
     position: relative;
-    /* top: 225px; */
+    top: 225px;
     background: orangered;
-  }
+  } */
 
   .imgMenu1162 {
     width: 33%;
@@ -55,10 +55,10 @@
     left: -190px;
   }
   .imgMenu1161 {
-    width: 38%;
+    width: 46%;
     position: relative;
     /* top: 120px; */
-    left: 110px;
+    left: 111px;
   }
   .div163 {
     width: 60%;

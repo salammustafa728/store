@@ -71,14 +71,14 @@
     position: relative;
     font-size: 0.5rem;
     line-height: 40px;
-    margin-left: 230px;
+    margin-left: 216px;
     top: -184px;
     width: 37%;
 }
 .orangediv {
   background: orangered;
   width: 53%;
-  margin-left: 190px;
+  margin-left: 176px;
   margin-top: -153px;
   padding-top: 40px;
 }
@@ -89,24 +89,4 @@
   margin-top: -81px;
 }
 }
-@media only screen and (min-width: 768px) {
-  /* For tablets: */
-  /* .imgMenu {
-    width: 25%;
-    height: 90%;
-    position: absolute;
-    top: 988px;
-    left: 20px;
-  }
-  .pText {
-    position: relative;
-    top: 0;
-    left: 30%;
-    width: 32%;
-    height: 20%;
-    text-align: left;
-    font-weight: bold;
-    font-size: .75rem;
-    line-height: 20px;
-  } */
-}
+
