@@ -31,14 +31,14 @@
 .orangediv {
   background: orangered;
   width: 30%;
-  margin-left: 817px;
+  margin-left: 747px;
   margin-top: -510px;
   padding-top: 52px;
 }
 
 .img2 {
   width: 30%;
-  margin-left: 657px;
+  margin-left: 472px;
   margin-top: -92px;
 }
 
@@ -69,21 +69,21 @@
     position: relative;
     font-size: 0.5rem;
     line-height: 40px;
-    margin-left: 205px;
-    top: -135px;
+    margin-left: 221px;
+    top: -83px;
     width: 37%;
   }
   .orangediv {
     background: orangered;
-    width: 46%;
-    margin-left: 182px;
-    margin-top: -129px;
+    width: 30%;
+    margin-left: 162px;
+    margin-top: -75px;
     padding-top: 40px;
   }
 
   .img2 {
-    width: 43%;
-    margin-left: 88px;
-    margin-top: -81px;
+    width: 30%;
+    margin-left: -85px;
+    margin-top: -80px;
   }
 }
