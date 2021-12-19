@@ -61,6 +61,7 @@
   .l1 {
     position: relative;
     top: 64px;
+    left: 29px;
   }
   .pfoot {
     margin-top: 273px;
@@ -72,7 +73,7 @@
   .p11foot {
     position: relative;
     top: 130px;
-    left: -75px;
+    left: -63px;
   }
   .h2foot {
     position: relative;
