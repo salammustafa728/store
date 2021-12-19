@@ -31,14 +31,14 @@
 .orangediv {
   background: orangered;
   width: 30%;
-  margin-left: 747px;
+  margin-left: 722px;
   margin-top: -510px;
   padding-top: 52px;
 }
 
 .img2 {
   width: 30%;
-  margin-left: 472px;
+  margin-left: 433px;
   margin-top: -92px;
 }
 
@@ -69,7 +69,7 @@
     position: relative;
     font-size: 0.5rem;
     line-height: 40px;
-    margin-left: 221px;
+    margin-left: 206px;
     top: -83px;
     width: 37%;
   }
@@ -83,7 +83,7 @@
 
   .img2 {
     width: 30%;
-    margin-left: -85px;
-    margin-top: -80px;
+    margin-left: -48px;
+    margin-top: -92px;
   }
 }
