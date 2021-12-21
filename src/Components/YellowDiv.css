@@ -24,9 +24,10 @@
   position: relative;
   font-size: 1rem;
   line-height: 40px;
-  margin-left: 239px;
-  top: -158px;
-  width: 24%;
+  margin-left: 143px;
+  top: -164px;
+  width: 31%;
+  height: 377px;
 }
 .orangediv {
   background: orangered;
@@ -65,19 +66,19 @@
   }
   .pText {
     text-align: left;
-    font-weight: bold;
-    position: relative;
-    font-size: 0.5rem;
-    line-height: 40px;
-    margin-left: 206px;
-    top: -83px;
-    width: 37%;
+font-weight: bold;
+position: relative;
+font-size: 0.5rem;
+line-height: 40px;
+margin-left: 33px;
+top: -83px;
+width: 47%;
   }
   .orangediv {
     background: orangered;
     width: 30%;
     margin-left: 162px;
-    margin-top: -75px;
+    margin-top: -158px;
     padding-top: 40px;
   }
 
